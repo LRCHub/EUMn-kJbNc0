@@ -1,120 +1,72 @@
 {
   "version": 1,
-  "base_track": "Encounter",
+  "base_track": "Encounter（feat. 初音ミク）",
   "base_artist": "Orangestar",
-  "createdAt": "2025-12-07T11:51:21.215076Z",
+  "createdAt": "2025-12-16T07:21:42.072466Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Enigmatic Encounter",
-      "artist": "ATB",
-      "has_synced": false,
-      "path": "select/01_Enigmatic_Encounter_ATB.txt"
+      "title": "Encounter (feat. 初音ミク)",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_Encounter_(feat._初音ミク)_Orangestar.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Lady Fantasy: Encounter / Smiles for You / Lady Fantasy",
-      "artist": "Camel",
+      "title": "Encounter (feat. Hatsune Miku)",
+      "artist": "Orangestar",
       "has_synced": true,
-      "path": "select/02_Lady_Fantasy__Encounter___Smiles_for_You___Lady_Fantasy_Camel.lrc"
+      "path": "select/02_Encounter_(feat._Hatsune_Miku)_Orangestar.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Lady Fantasy: Encounter / Smiles for You / Lady Fantasy (original Basing Street Studios mix)",
-      "artist": "Camel",
-      "has_synced": true,
-      "path": "select/03_Lady_Fantasy__Encounter___Smiles_for_You___Lady_Fantasy_(original_Basing_Street__Camel.lrc"
+      "title": "Hostile Encounter (feat. Dennis Schuler) (Album Version)",
+      "artist": "Medical Negligence",
+      "has_synced": false,
+      "path": "select/03_Hostile_Encounter_(feat._Dennis_Schuler)_(Album_Version)_Medical_Negligence.txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Strange Encounter",
-      "artist": "Father John Misty",
+      "title": "Enigmatic Encounter feat. Enigma",
+      "artist": "ATB",
       "has_synced": false,
-      "path": "select/04_Strange_Encounter_Father_John_Misty.txt"
+      "path": "select/04_Enigmatic_Encounter_feat._Enigma_ATB.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "We Are Water (Soft Encounter Remix)",
-      "artist": "Health",
+      "title": "Encounter (feat. 初音ミク)",
+      "artist": "Orangestar",
       "has_synced": false,
-      "path": "select/05_We_Are_Water_(Soft_Encounter_Remix)_Health.txt"
+      "path": "select/05_Encounter_(feat._初音ミク)_Orangestar.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Encounter at Chronos' Maze",
-      "artist": "Diabulus In Musica",
-      "has_synced": true,
-      "path": "select/06_Encounter_at_Chronos'_Maze_Diabulus_In_Musica.lrc"
+      "title": "Encounter (feat. Hatsune Miku)",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/06_Encounter_(feat._Hatsune_Miku)_Orangestar.txt"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Close Encounter",
-      "artist": "TANKARD",
+      "title": "Enigmatic Encounter (feat. Enigma)",
+      "artist": "ATB",
       "has_synced": false,
-      "path": "select/07_Close_Encounter_TANKARD.txt"
+      "path": "select/07_Enigmatic_Encounter_(feat._Enigma)_ATB.txt"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel / Misplaced Rendezvous / Windswept Thumb (2017 Remastered Version)",
-      "artist": "Marillion",
-      "has_synced": true,
-      "path": "select/08_Bitter_Suite__Brief_Encounter___Lost_Weekend___Blue_Angel___Misplaced_Rendezvous_Marillion.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "Bitter Suite: Brief Encounter/Lost Weekend/Blue Angel/Misplaced Rendezvous/Windswept Thumb - 1998 Remastered Version",
-      "artist": "Marillion",
+      "title": "Enigmatio Encounter (Feat. Eni",
+      "artist": "ATB",
       "has_synced": false,
-      "path": "select/09_Bitter_Suite__Brief_Encounter_Lost_Weekend_Blue_Angel_Misplaced_Rendezvous_Winds_Marillion.txt"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "Lady Fantasy: Encounter \u0000 Smil",
-      "artist": "Camel",
-      "has_synced": true,
-      "path": "select/10_Lady_Fantasy__Encounter_\u0000_Smil_Camel.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "Lady Fantasy: Encounter \u0000 Smiles For You \u0000 Lady Fantasy",
-      "artist": "Camel",
-      "has_synced": true,
-      "path": "select/11_Lady_Fantasy__Encounter_\u0000_Smiles_For_You_\u0000_Lady_Fantasy_Camel.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "Lady Fantasy: Encounter \u0000 Smiles For You \u0000 Lady Fantasy {*} (Original Mix)",
-      "artist": "Camel",
-      "has_synced": true,
-      "path": "select/12_Lady_Fantasy__Encounter_\u0000_Smiles_For_You_\u0000_Lady_Fantasy_{_}_(Original_Mix)_Camel.lrc"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "Lady Fantasy: Encounter-Smiles",
-      "artist": "Camel",
-      "has_synced": true,
-      "path": "select/13_Lady_Fantasy__Encounter-Smiles_Camel.lrc"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Second Encounter",
-      "artist": "The KVB",
-      "has_synced": false,
-      "path": "select/14_Second_Encounter_The_KVB.txt"
+      "path": "select/08_Enigmatio_Encounter_(Feat._Eni_ATB.txt"
     },
     {
       "id": "petitlyrics_1",
